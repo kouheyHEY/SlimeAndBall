@@ -1,5 +1,7 @@
 # SLIME & BALL
 
+https://kouheyhey.github.io/SlimeAndBall/
+
 スライムを操作して、各ステージの黄色い旗を取得していくゲームです。
 
 スライムには「通常モード」「ボールモード」があり、Bボタンでモードを切り替えられます。
